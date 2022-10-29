@@ -3,8 +3,7 @@ Libreria para autenticación que realiza la consulta al servicio Apikey.
 ###
 ### Instalacion
 ###
-Instalar mediante el administrador de paquetes nuget. Si no tiene agregado el server nuget del CIFE.  
-[Ver documentación](https://github.com/patricioarena/images/blob/master/Nop/no-no-no.gif?raw=true)
+Instalar mediante el administrador de paquetes nuget. Si no tiene agregado el server nuget del CIFE. [Ver documentación](https://github.com/patricioarena/images/blob/master/Nop/no-no-no.gif?raw=true)
 ###
 ### Compilar y probar
 Agregar atributo sobre el metodo del controller que se desea autenticar usando el servicio apikey.
