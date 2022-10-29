@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Configurations>Debug;Release;Testing;UAT</Configurations>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Patricio E. Arena</Authors>
+    <Company>Fiscalia de Estado</Company>
+    <RepositoryUrl>http://servidor38:8080/tfs/Perifericos/APIKEY/_git/APIKEY_Libreria</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageProjectUrl>http://servidor38:8080/tfs/Perifericos/APIKEY/_git/APIKEY_Libreria</PackageProjectUrl>
+    <Description>Libreria para autenticación que realiza la consulta al servicio Apikey.</Description>
+    <PackageId>ApiKey_Attribute</PackageId>
+    <Product>ApiKey_Attribute</Product>
+    <AssemblyName>ApiKey_Attribute</AssemblyName>
+    <RootNamespace>ApiKey_Attribute</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+</Project>

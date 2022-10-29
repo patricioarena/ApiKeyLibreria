@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericaNetCore31", "GenericaNetCore31\GenericaNetCore31.csproj", "{D74FA8A0-9EC5-42BF-B631-39D39D414447}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiKey_Attribute", "ApiKey_Attribute\ApiKey_Attribute.csproj", "{009A1502-6294-4CA6-B057-F0529747660A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.Testing|Any CPU.ActiveCfg = Release|Any CPU
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.Testing|Any CPU.Build.0 = Release|Any CPU
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.UAT|Any CPU.ActiveCfg = Release|Any CPU
+		{D74FA8A0-9EC5-42BF-B631-39D39D414447}.UAT|Any CPU.Build.0 = Release|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.Testing|Any CPU.Build.0 = Testing|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{009A1502-6294-4CA6-B057-F0529747660A}.UAT|Any CPU.Build.0 = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A13E5BA-7E8F-4B98-AF34-EA506890AE82}
+	EndGlobalSection
+EndGlobal
