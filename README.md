@@ -26,3 +26,6 @@ Ejemplo:
 Para generar key, gestionar o ver logs de errores.
 - [Ver documentación](https://github.com/patricioarena/ApiKeyServicio)
 - [Ver servicio](https://github.com/patricioarena/images/blob/master/Nop/no-no-no.gif?raw=true)
+<br>
+
+    Happy encoding :)
