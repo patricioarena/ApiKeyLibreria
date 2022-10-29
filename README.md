@@ -14,13 +14,13 @@ También se puede establecer una url como string, es decir, UrlEndpoint = "http:
 
 Ejemplo:
 
-![](https://devs.fepba.gov.ar/tfs/Perifericos/b0e7231e-55d8-4fd6-a012-888f5d25ba96/_api/_versioncontrol/itemContent?repositoryId=801bd68f-f581-44d1-bdf3-f259df1c02e3&path=%2Fimages%2F1.png&version=GBmaster&contentOnly=true&__v=5)
+![](https://github.com/patricioarena/ApiKeyLibreria/blob/master/images/1.png)
 
 Para probar que funcione correctamente usar postman o cualquier cliente rest y agregar en los header el clientId y la apikey correspondiente.
 
 Ejemplo:
 
-![](https://devs.fepba.gov.ar/tfs/Perifericos/b0e7231e-55d8-4fd6-a012-888f5d25ba96/_api/_versioncontrol/itemContent?repositoryId=801bd68f-f581-44d1-bdf3-f259df1c02e3&path=%2Fimages%2F2.png&version=GBmaster&contentOnly=true&__v=5)
+![](https://github.com/patricioarena/ApiKeyLibreria/blob/master/images/1.png)
 
 ### Nota
 Para generar key, gestionar o ver logs de errores.
