@@ -14,13 +14,13 @@ También se puede establecer una url como string, es decir, UrlEndpoint = "http:
 
 Ejemplo:
 
-![](https://github.com/patricioarena/ApiKeyLibreria/blob/master/images/1.png)
+![](https://github.com/patricioarena/images/blob/master/ApiKey/1.png)
 
 Para probar que funcione correctamente usar postman o cualquier cliente rest y agregar en los header el clientId y la apikey correspondiente.
 
 Ejemplo:
 
-![](https://github.com/patricioarena/ApiKeyLibreria/blob/master/images/1.png)
+![](https://github.com/patricioarena/images/blob/master/ApiKey/2.png)
 
 ### Nota
 Para generar key, gestionar o ver logs de errores.
